@@ -10,3 +10,6 @@ You can contact me using email or add me on Discord. However, I prefer to be con
 
 - **[Email (dev@rendoru.com)](mailto://dev@rendoru.com)**
 - **Discord (Rendoru@1320)**
+
+## Footnote
+If you find that my libraries are useful, consider supporting me by donating [HERE](https://donatenow.wfp.org/wfp/~my-donation).
